@@ -23,7 +23,7 @@ public class A {
         }
     }
 
-    void userB() {
+    void useB() {
         B b = new B();
         b.print();
     }
